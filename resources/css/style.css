@@ -36,3 +36,29 @@ h1, h2, h3 {
 .process p {
   font-size: 14px;
 }
+
+.designedin {
+  text-align: center;
+}
+
+.designedin h3 {
+  font-size: 23px;
+}
+
+.designedin p {
+  font-size: 14px;
+}
+
+#designed {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+
+.footer {
+  background-color: dimgray;
+  color: white;
+}
+
+.footer p {
+  font-size: 11px;
+}
